@@ -6,7 +6,7 @@
   },
   "forwardPorts": [3000],  
   "portsAttributes": {
-    "8006": {
+    "3000": {
       "label": "Web",
       "onAutoForward": "notify"
     }
